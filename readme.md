@@ -1,7 +1,7 @@
 # Teste Verdanatech
 
 Esse projeto teve como objetivo criar um sistema de gerenciamentos de produtos utilizando técnicas de programação através do uso de frameworks como Laravel, Bootstrap e Jquery.
-![Captura de tela de 2019-04-16 16-43-13](https://user-images.githubusercontent.com/40250320/56246283-3050a400-6067-11e9-9bf2-975b0bb4a635.png)
+![Captura de tela de 2019-04-16 16-43-13](https://github.com/EricksonFerreira/TesteVerdanatech/blob/master/public/img/papel-parede.png)
 
 # Executar
 > Primeiro clone o projeto e entre dentro da pasta
